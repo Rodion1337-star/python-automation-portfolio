@@ -10,7 +10,7 @@ From web scraping to report generation.
 
 ---
 
-## 🌐 Language
+## 🌐 Language / Язык
 
 - [English](./README.md) ← You are here
 - [Русский](./README.ru.md)
@@ -30,10 +30,10 @@ From web scraping to report generation.
 ## 🛠 Tech Stack
 
 - **Python 3.9+**
-- `pandas` — Data processing & analysis
-- `openpyxl` — Excel file manipulation
+- `pandas` — Data processing
+- `openpyxl` — Excel manipulation
 - `requests` + `BeautifulSoup` — Web scraping
-- `sqlite3` — Database operations
+- `sqlite3` — Database
 
 ---
 
@@ -45,4 +45,4 @@ See `screenshots/` folder in each project.
 
 **Made with ❤️ in July 2026**
 
-[Rodion1337-star](https://github.com/Rodion1337-star) • [Telegram](https://t.me)
+[Rodion1337-star](https://github.com/Rodion1337-star)
