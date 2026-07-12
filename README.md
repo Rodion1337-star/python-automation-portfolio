@@ -63,4 +63,4 @@
 
 **Сделано с ❤️ в 2026 году**
 
-[Rodion1337-star](https://github.com/Rodion1337-star) • [LinkedIn](https://linkedin.com) • [Telegram](https://t.me)
+[Rodion1337-star](https://github.com/Rodion1337-star)
