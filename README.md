@@ -8,34 +8,47 @@ From web scraping to report generation.
 
 ## 🌐 Language / Язык
 
-- [English](./README.en.md)
+- [English](./README.en.md) ← You are here
 - [Русский](./README.ru.md)
 
 ---
 
 ## 📋 Projects
 
-| Project | Description | Technologies | Status |
-|---------|-------------|--------------|--------|
-| **[🌐 WEB Scraping](./quotes-scraper)** | Website parsing and Excel export | requests, BeautifulSoup, pandas | ✅ Completed |
-| **[💰 API Integration](./crypto-prices)** | Cryptocurrency data via CoinGecko API | requests, pandas | ✅ Completed |
-| **[📊 Excel Automation](./excel-sales-report)** | Sales reports from SQLite database | sqlite3, pandas, openpyxl | ✅ Completed |
+### 🌐 [WEB Scraping](./quotes-scraper)
+**Website parsing and Excel export**
+
+**Technologies:** requests, BeautifulSoup, pandas, openpyxl
+
+---
+
+### 💰 [API Integration](./crypto-prices)
+**Cryptocurrency data via CoinGecko API**
+
+**Technologies:** requests, pandas
+
+---
+
+### 📊 [Excel Automation](./excel-sales-report)
+**Sales reports from SQLite database**
+
+**Technologies:** sqlite3, pandas, openpyxl
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Python 3.9+**
-- `pandas` — Data processing
-- `openpyxl` — Excel manipulation
-- `requests` + `BeautifulSoup` — Web scraping
-- `sqlite3` — Database
+- Python 3.9+
+- pandas
+- openpyxl
+- requests + BeautifulSoup
+- sqlite3
 
 ---
 
 ## 📸 Screenshots
 
-See `screenshots/` folder in each project.
+Screenshots of each project are in the `screenshots/` folder.
 
 ---
 
