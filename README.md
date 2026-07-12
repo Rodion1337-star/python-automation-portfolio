@@ -1,8 +1,6 @@
 # Python Automation Portfolio
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-21759B?logo=python&logoColor=white)
+**Технологии:** Python • Pandas • OpenPyXL • Requests • BeautifulSoup • sqlite3
 
 **Сборник автоматизаций на Python** — от веб-скрапинга до генерации отчётов.
 
