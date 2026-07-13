@@ -9,7 +9,7 @@ From web scraping to report generation.
 ## 🌐 Language / Язык
 
 - [English](./README.en.md)
-- [Русский](./README.ru.md)
+- [Русский](./README.rus.md)
 
 ---
 
